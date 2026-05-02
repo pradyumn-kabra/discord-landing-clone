@@ -27,8 +27,7 @@ discord-landing-clone/
 ---
 
 ## 🌐 Live Demo
-Hosted on **Netlify** (URL will appear after deployment from your repo).
-
+https://pradyumndiscordclone.netlify.app/
 ---
 
 ## 🛠️ Technologies Used
